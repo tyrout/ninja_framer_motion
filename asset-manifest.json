@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ninja_framer_motion/static/css/main.bf692695.chunk.css",
-    "main.js": "/ninja_framer_motion/static/js/main.d8671320.chunk.js",
-    "main.js.map": "/ninja_framer_motion/static/js/main.d8671320.chunk.js.map",
+    "main.js": "/ninja_framer_motion/static/js/main.b2d7e71a.chunk.js",
+    "main.js.map": "/ninja_framer_motion/static/js/main.b2d7e71a.chunk.js.map",
     "runtime-main.js": "/ninja_framer_motion/static/js/runtime-main.aad7c0d7.js",
     "runtime-main.js.map": "/ninja_framer_motion/static/js/runtime-main.aad7c0d7.js.map",
     "static/js/2.f0ac64b9.chunk.js": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js",
     "static/js/2.f0ac64b9.chunk.js.map": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js.map",
     "index.html": "/ninja_framer_motion/index.html",
-    "precache-manifest.c6e2fbbde3a034e28c4340f689e864a7.js": "/ninja_framer_motion/precache-manifest.c6e2fbbde3a034e28c4340f689e864a7.js",
+    "precache-manifest.ae7bb0b05e780cf34289dd15e6316fe2.js": "/ninja_framer_motion/precache-manifest.ae7bb0b05e780cf34289dd15e6316fe2.js",
     "service-worker.js": "/ninja_framer_motion/service-worker.js",
     "static/css/main.bf692695.chunk.css.map": "/ninja_framer_motion/static/css/main.bf692695.chunk.css.map",
     "static/js/2.f0ac64b9.chunk.js.LICENSE.txt": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aad7c0d7.js",
     "static/js/2.f0ac64b9.chunk.js",
     "static/css/main.bf692695.chunk.css",
-    "static/js/main.d8671320.chunk.js"
+    "static/js/main.b2d7e71a.chunk.js"
   ]
 }

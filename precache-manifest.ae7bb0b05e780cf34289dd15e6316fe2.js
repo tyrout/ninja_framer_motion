@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a7ab58ae23785e3601b942aea4ae135",
+    "revision": "3ce225c0fd956338f7f5f888a6205823",
     "url": "/ninja_framer_motion/index.html"
   },
   {
-    "revision": "e02f7869069faf174269",
+    "revision": "38f0fbe09d1b9b949a1d",
     "url": "/ninja_framer_motion/static/css/main.bf692695.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e02f7869069faf174269",
-    "url": "/ninja_framer_motion/static/js/main.d8671320.chunk.js"
+    "revision": "38f0fbe09d1b9b949a1d",
+    "url": "/ninja_framer_motion/static/js/main.b2d7e71a.chunk.js"
   },
   {
     "revision": "98711b382728161c5ee4",
