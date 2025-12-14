@@ -25,10 +25,19 @@ const pathVariants = {
   }
 }
 
+// dragConstrains 의 값은 'svg 를 확 당기고 놓았을 때 다시 원래 자리로 돌아오는 최대 범위를 지정하는 것임.
 const Header = () => {
   return (
     <header>
-      <div className="logo">
+      <motion.div className="logo"
+        drag  
+        dragConstraints = {{ left: 0, right: 50, top: 0, bottom: 50 }}
+        dragElastic = {0.2}
+        //whileDrag 적용을 위해선 우선 '기준점'을 정해야함. 기준 = animate 속성
+        // 뭐야 근데 whileDrag 적용이 안되는데? ㅡㅡ 
+        animate = {{ scale: 1, rotate: 40}}
+        whileDrag={{ scale: 1.2, rotate: 10}}
+      >
         <motion.svg className="pizza-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"
           variants={svgVariants}
           initial="initial"
@@ -45,7 +54,7 @@ const Header = () => {
             variants={pathVariants}
           />
         </motion.svg>
-      </div>
+      </motion.div>
       <Link to="/">
         <motion.div className="title"
           initial={{ y: -250}}
