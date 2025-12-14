@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ninja-framer-motion/static/css/main.bf692695.chunk.css",
-    "main.js": "/ninja-framer-motion/static/js/main.d8671320.chunk.js",
-    "main.js.map": "/ninja-framer-motion/static/js/main.d8671320.chunk.js.map",
-    "runtime-main.js": "/ninja-framer-motion/static/js/runtime-main.980e54da.js",
-    "runtime-main.js.map": "/ninja-framer-motion/static/js/runtime-main.980e54da.js.map",
-    "static/js/2.f0ac64b9.chunk.js": "/ninja-framer-motion/static/js/2.f0ac64b9.chunk.js",
-    "static/js/2.f0ac64b9.chunk.js.map": "/ninja-framer-motion/static/js/2.f0ac64b9.chunk.js.map",
-    "index.html": "/ninja-framer-motion/index.html",
-    "precache-manifest.c4b8f58290275c33d1b73aaaa1f2042c.js": "/ninja-framer-motion/precache-manifest.c4b8f58290275c33d1b73aaaa1f2042c.js",
-    "service-worker.js": "/ninja-framer-motion/service-worker.js",
-    "static/css/main.bf692695.chunk.css.map": "/ninja-framer-motion/static/css/main.bf692695.chunk.css.map",
-    "static/js/2.f0ac64b9.chunk.js.LICENSE.txt": "/ninja-framer-motion/static/js/2.f0ac64b9.chunk.js.LICENSE.txt"
+    "main.css": "/ninja_framer_motion/static/css/main.bf692695.chunk.css",
+    "main.js": "/ninja_framer_motion/static/js/main.d8671320.chunk.js",
+    "main.js.map": "/ninja_framer_motion/static/js/main.d8671320.chunk.js.map",
+    "runtime-main.js": "/ninja_framer_motion/static/js/runtime-main.aad7c0d7.js",
+    "runtime-main.js.map": "/ninja_framer_motion/static/js/runtime-main.aad7c0d7.js.map",
+    "static/js/2.f0ac64b9.chunk.js": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js",
+    "static/js/2.f0ac64b9.chunk.js.map": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js.map",
+    "index.html": "/ninja_framer_motion/index.html",
+    "precache-manifest.c6e2fbbde3a034e28c4340f689e864a7.js": "/ninja_framer_motion/precache-manifest.c6e2fbbde3a034e28c4340f689e864a7.js",
+    "service-worker.js": "/ninja_framer_motion/service-worker.js",
+    "static/css/main.bf692695.chunk.css.map": "/ninja_framer_motion/static/css/main.bf692695.chunk.css.map",
+    "static/js/2.f0ac64b9.chunk.js.LICENSE.txt": "/ninja_framer_motion/static/js/2.f0ac64b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.980e54da.js",
+    "static/js/runtime-main.aad7c0d7.js",
     "static/js/2.f0ac64b9.chunk.js",
     "static/css/main.bf692695.chunk.css",
     "static/js/main.d8671320.chunk.js"
