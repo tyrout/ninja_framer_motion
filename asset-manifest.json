@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ninja-framer-motion/static/css/main.bf692695.chunk.css",
+    "main.js": "/ninja-framer-motion/static/js/main.20fde21d.chunk.js",
+    "main.js.map": "/ninja-framer-motion/static/js/main.20fde21d.chunk.js.map",
+    "runtime-main.js": "/ninja-framer-motion/static/js/runtime-main.980e54da.js",
+    "runtime-main.js.map": "/ninja-framer-motion/static/js/runtime-main.980e54da.js.map",
+    "static/js/2.0e4ccb7b.chunk.js": "/ninja-framer-motion/static/js/2.0e4ccb7b.chunk.js",
+    "static/js/2.0e4ccb7b.chunk.js.map": "/ninja-framer-motion/static/js/2.0e4ccb7b.chunk.js.map",
+    "index.html": "/ninja-framer-motion/index.html",
+    "precache-manifest.972e1c76557bb7e72a22d2b222ba695d.js": "/ninja-framer-motion/precache-manifest.972e1c76557bb7e72a22d2b222ba695d.js",
+    "service-worker.js": "/ninja-framer-motion/service-worker.js",
+    "static/css/main.bf692695.chunk.css.map": "/ninja-framer-motion/static/css/main.bf692695.chunk.css.map",
+    "static/js/2.0e4ccb7b.chunk.js.LICENSE.txt": "/ninja-framer-motion/static/js/2.0e4ccb7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980e54da.js",
+    "static/js/2.0e4ccb7b.chunk.js",
+    "static/css/main.bf692695.chunk.css",
+    "static/js/main.20fde21d.chunk.js"
+  ]
+}
