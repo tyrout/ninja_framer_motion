@@ -13,6 +13,7 @@ function App() {
     setPizza({ ...pizza, base })
   }
   
+  // 토핑의 추가 뿐만 아니라 제거를 위해서도 필요한 기능인거였음. 
   const addTopping = (topping) => {
     let newToppings;
     if(!pizza.toppings.includes(topping)){

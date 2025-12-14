@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+/* 기본 스타일 초기화 */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* 부모 상자 스타일 */
+.parent {
+    /* ⭐️ 핵심 1: position: relative */
+    /* 자식 요소(absolute)의 배치 기준점이 됩니다. */
+    position: relative; 
+    
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    margin: 50px 0;
+    
+    /* 시각적 구분 */
+    border: 3px solid #3498db; 
+    background-color: #ecf0f1;
+
+    top: 150px
+}
+
+/* 자식 상자 스타일 */
+.child {
+    /* ⭐️ 핵심 2: position: absolute */
+    /* 정상 문서 흐름에서 벗어나 부모(.parent)를 기준으로 배치됩니다. */
+    position: absolute;
+    
+    width: 100px;
+    height: 50px;
+    
+    /* ⭐️ 핵심 3: top/right 속성 사용 */
+    /* 부모 상자의 오른쪽 상단 모서리를 기준으로 배치됩니다. */
+    top: 0;
+    right: 0;
+    
+    text-align: center;
+    line-height: 50px;
+    
+    /* 시각적 구분 */
+    background-color: #e74c3c;
+    color: white;
+    font-weight: bold;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Position: relative와 absolute 실습</h1>
+
+    <div class="parent">
+        <h2>부모 상자 (Relative)</h2>
+        
+        <div class="child">
+            자식 상자 (Absolute)
+        </div>
+    </div>
+    
+    <p>부모 상자 외부에 있는 다른 내용...</p>
+    <div style="height: 50px; border: 1px dashed gray;">아래 내용</div>
+</body>
+</body>
+</html>

@@ -1,4 +1,6 @@
 import React from 'react';
+import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -15,9 +17,15 @@ const Header = () => {
           />
         </svg>
       </div>
-      <div className="title">
-        <h1>Pizza Joint</h1>
-      </div>
+      <Link to="/">
+        <motion.div className="title"
+          initial={{ y: -250}}
+          animate={{ y: -10 }}
+          trainsition={{ delay: 0.2, type: 'spring', stiffness: 120 }}
+          >
+          <h1>Pizza Joint</h1>
+        </motion.div>
+      </Link>
     </header>
   )
 }
